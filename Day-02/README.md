@@ -1,2 +1,0 @@
-This Python program calculates the amount each person needs to pay when splitting a bill, including the tip. The user is prompted to input the total bill amount, the desired tip percentage (from options of 10%, 12%, or 15%), and the number of people sharing the bill.
- 
